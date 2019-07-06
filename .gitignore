@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+data/
+__pycache__/
+Embeddings/
+Models/
+Stats/
+Results/
+*.csv
